@@ -1,26 +1,12 @@
 {
     "name": "greeb/javascriptobfuscator-client",
-    "type": "library",
-    "description": "PHP Client Library for javascriptobfuscator.com api",
-    "keywords": [
-        "php7",
-        "javascript"
-        ],
+    "description": "PHP Client for javascriptobfuscator.com api",
     "homepage": "http://github.com/GREEB/php7-jsobfuscatorclient",
-    "license": "LGPL3.0",
-    "authors": [
-        {
-            "name": "nosx",
-            "email": "nosx@nosx.tk",
-            "role": "Troll"
-        }
-    ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.3",
 		"nategood/httpful": "^0.2.20"
     },
-    "autoload": {
+	"autoload": {
         "psr-4": {
             "n05x\\": "src"
         }
