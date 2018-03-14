@@ -1,12 +1,12 @@
 {
-    "name": "n05x/php7-jsobfuscatorclient",
+    "name": "greeb/php7-jsobfuscatorclient",
     "type": "library",
     "description": "PHP Client Library for JSObfuscator.com api",
     "keywords": [
         "php7",
         "javascript"
         ],
-    "homepage": "http://github.com/n05x/PHP7-JSObfuscatorClient",
+    "homepage": "http://github.com/GREEB/php7-jsobfuscatorclient",
     "license": "LGPL3.0",
     "authors": [
         {
