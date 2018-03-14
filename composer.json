@@ -1,7 +1,7 @@
 {
-    "name": "greeb/php7-jsobfuscatorclient",
+    "name": "greeb/javascriptobfuscator-client",
     "type": "library",
-    "description": "PHP Client Library for JSObfuscator.com api",
+    "description": "PHP Client Library for javascriptobfuscator.com api",
     "keywords": [
         "php7",
         "javascript"
