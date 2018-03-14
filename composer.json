@@ -2,9 +2,10 @@
     "name": "greeb/javascriptobfuscator-client",
     "description": "PHP Client for javascriptobfuscator.com api",
     "homepage": "http://github.com/GREEB/php7-jsobfuscatorclient",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0.3",
-		"nategood/httpful": "^0.2.20"
+	"nategood/httpful": "^0.2.20"
     },
 	"autoload": {
         "psr-4": {
