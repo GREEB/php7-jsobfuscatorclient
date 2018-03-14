@@ -1,0 +1,28 @@
+{
+    "name": "n05x/php7-jsobfuscatorclient",
+    "type": "library",
+    "description": "PHP Client Library for JSObfuscator.com api",
+    "keywords": [
+        "php7",
+        "javascript"
+        ],
+    "homepage": "http://github.com/n05x/PHP7-JSObfuscatorClient",
+    "license": "LGPL3.0",
+    "authors": [
+        {
+            "name": "nosx",
+            "email": "nosx@nosx.tk",
+            "role": "Troll"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.3",
+		"nategood/httpful": "^0.2.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "n05x\\": "src"
+        }
+    }
+}
